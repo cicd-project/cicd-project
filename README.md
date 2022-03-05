@@ -2,4 +2,4 @@
 
 ### AWS Architecture 
 
-![image](https://user-images.githubusercontent.com/28837244/156688624-4e788ce6-bcd7-4397-b36a-80344010e1f9.png)
+![image](https://user-images.githubusercontent.com/28837244/156878700-6bb16e65-39df-458a-8f1c-769a20a104f3.png)
